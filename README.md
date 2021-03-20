@@ -23,7 +23,7 @@ The current manufacturing data does not meet the design specification, which dic
 
 When a t-test was ran on the data from all manufacturing lots, the result was the above. This shows that the PSI from these lots is not statistically different from the population mean. The p-value was above 0.05, which means we can reject the alternative hypothesis, which is that the means are not equal. That means the null hypothesis - that the means ARE equal - can be accepted.
 
-INSERT PHOTOS
+![T test on coils by lot](https://user-images.githubusercontent.com/74469315/111882790-ddd43c80-898d-11eb-8b02-812ed92dfa2e.PNG)
 
 Based on the t-tests done on the coils produced in all three lots, the PSI for each manufacturing lot is NOT statistically different from the population mean of 1,500 pounds per square inch. The p-value of all three tests was higher than 0.05. Just like with the data from all manufacturing lots, this means that we can accept the null hypothesis that the mean of the dataset is equal to the mean of the population standard.
 
