@@ -29,4 +29,4 @@ Based on the t-tests done on the coils produced in all three lots, the PSI for e
 
 ## Study Design: MechaCar vs Competition
 
-In order to determine how the MechCar performs against the competition, I would want to compare the averages of important metrics of the MechaCar to those of its competition. Perhaps I would look first at how it compared to cars of a similar size. 
+In order to determine how the MechCar performs against the competition, I would want to compare the averages of important metrics of the MechaCar to those of its competition. Perhaps I would look first at how its fuel effciency compared to cars of a similar size. I would test the mean fuel efficiency of the MechaCar against the mean fuel efficiency of a competitor's car through a one-tailed t test. The null hypothesis would be that the average fuel efficiency (as measured by mpg) of the MechaCar is higher than the average fuel efficiency of the competitor. In order to run this test, I would need mpg data from a number of cars from both creators.
