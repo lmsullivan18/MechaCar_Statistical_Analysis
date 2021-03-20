@@ -4,11 +4,11 @@
 
 ![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/74469315/111876020-20d4e680-8973-11eb-95b1-f01f956188ca.PNG)
 
-The variables that provide a non-random amount of variance to the mpg values in the dataset are the intercept, vehicle length and ground clearance.
+The variables that provide a non-random amount of variance to the mpg values in the dataset are the intercept, vehicle length and ground clearance, because those Pr(>|t|) values are very, very small.
 
 The slope of the linear model is not zero. The slope(s) are determined by the coefficient. There are multiple coefficients in a multiple regression model, and in this case, none of them are zero. This means that all of the variables had an impact on the result.
 
-This does effectively predict the mpg of MechaCar prototypes because the p value is far lower than 0.05, and the r-squared value is fairly high. It is at 0.71 which indicates that about 70% of mpg can be accurately predicted by this equation.
+This does effectively predict the mpg of MechaCar prototypes because the p value is far lower than 0.05, and the r-squared value is fairly high. It is at 0.71 which indicates that about mpg for about 70% of cars can be accurately predicted by this equation.
 
 
 ## Summary Statistics on Suspension Coils
