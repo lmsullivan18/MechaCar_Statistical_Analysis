@@ -19,7 +19,7 @@ The current manufacturing data does not meet the design specification, which dic
 
 ## T-Tests on Suspension Coils
 
-INSERT PHOTOS
+![T test on suspension coils](https://user-images.githubusercontent.com/74469315/111882759-b7160600-898d-11eb-9c53-d4ef0a48a698.PNG)
 
 When a t-test was ran on the data from all manufacturing lots, the result was the above. This shows that the PSI from these lots is not statistically different from the population mean. The p-value was above 0.05, which means we can reject the alternative hypothesis, which is that the means are not equal. That means the null hypothesis - that the means ARE equal - can be accepted.
 
