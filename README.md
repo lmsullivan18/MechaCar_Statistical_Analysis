@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-INSERT PHOTOS
+![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/74469315/111876020-20d4e680-8973-11eb-95b1-f01f956188ca.PNG)
 
 The variables that provide a non-random amount of variance to the mpg values in the dataset are the intercept, vehicle length and ground clearance.
 
